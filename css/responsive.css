@@ -1,0 +1,455 @@
+  @media (min-width:1300px){
+.navbar-toggle{display: none;}
+.video-controls{top: 60%;}
+
+
+/* fifth page start */
+.breakfast-title{margin: 140px 0 0 0;}
+.breakfast-content{padding: 0 0 50px 0;}
+.breakfast-img img{height: 622px;}
+.banner-details{padding: 100px 0;}
+
+/* fifth page end */
+  }
+
+  @media  (min-width:1200px) and (max-width:1299.98px){
+
+    /* index page start */
+    .container{ max-width: 1030px; }
+    .about-us-content{padding: 0 40px;}
+    .work-process-content{margin: 50px 128px;}
+    .slider-details{padding: 0 240px;}
+    .slider-text {padding: 140px 0;}
+    .project-description{margin: 40px 110px;}
+    .collaboration-box ul li { margin: 0 70px; }
+    .banner-details{padding: 60px 0;}
+    .banner-bkg{padding: 100px 0 0 0;}
+    .about-us-box{margin: 60px 0;}
+    .video-controls{top: 63%;}
+    .project-box{padding: 70px 0;}
+    /* index page end */
+
+    /* home page start */
+    .banner-home-description{margin: 40px 116px;}
+    /* home page end  */
+
+    /* third page start */
+    .about-banner-description{margin: 0 100px;}
+    /* third page end */
+
+    /* fifth page start */
+    .breakfast-description p{margin: 16px 0;}
+    .breakfast-content{padding: 100px 0;}
+    .breakfast-img img {height: 580px;}
+    /* fifth page end  */
+  }
+
+  @media  (min-width:992px) and (max-width:1199.98px){
+  .container{ max-width: 882px; }
+  /* index page start */
+  .about-us-content {padding: 0 130px;}
+  .client-box{padding: 70px 0;}
+  .more-work{padding: 30px 0;}
+  .work-process-content{margin: 37px 100px;}
+  .footer-description ul{ margin:  0 5px; }
+  .slider-details{padding: 0 120px;}
+  .slider-text{padding: 60px 0;}
+  .banner-details{padding: 30px 0;}
+  .montserrat-black-38 {font-size: 32px;}
+  .collaboration-box ul li { margin: 0 50px; }
+  .project-description { margin: 40px 100px; }
+  .banner-bkg{padding: 100px 0 0 0;}
+  .video-controls{top: 61%;}
+  .about-us-box{margin: 52px 0;}
+  .skills-img img{height: 400px;}
+  .work-process-title{margin-bottom: 0;}
+  .field-content{padding: 30px 0;}
+  .slider-author{margin: 16px 0;}
+  .product-img{max-width: 33.3%;}
+  .field-details{max-width: 33%;}
+  /* index page end */
+
+  /* second page start */
+    .banner-home-description{margin: 20px 100px;}
+  .banner-home-box{padding: 140px 0 50px 0;}
+  /* second page end */
+
+  /* third page start(about) */
+  /* banner start */
+  .about-banner-description{margin: 0 100px;}
+  .about-me-details{padding: 90px 40px 90px 100px;}
+  .project-box{padding: 60px 0;}
+  .about-banner-box{padding: 60px 0;}
+  .about-banner-title{margin-bottom: 18px;}
+  .skills-bar-box{margin: 40px 80px;}
+  /* banner end */
+  /* third page end */
+
+  /* fourth page start */
+  .input-detail input{padding: 15px 10px;}
+  /* fourthpage end */
+
+  /* fifth page start */
+  .breakfast-content{padding: 80px 0 40px 0;}
+  .breakfast-description p{margin: 12px 0;}
+  .breakfast-img img{height: 520px;}
+  /* fifth page end */
+  }
+
+  @media (min-width:768px) and (max-width:991.98px){
+   
+    /* index page start */
+  .container {max-width: 660px;}
+  .header-top ul li { padding: 20px 7px; }
+  .banner-details{    padding: 27px 0 0 186px; }
+  .banner-bkg{padding: 80px 0;}
+  .banner-title{font-size: 25px;margin-top: 6px;}
+  .nunitosans-grey-18{font-size: 16px;}
+  .button{padding: 15px 30px;}
+  .about-us-content{padding: 0 40px;}
+  .skills-bar-box { margin: 50px 43px 30px 50px; }
+  .client-logo img{height: 40px; width: 40px; margin: 0 15px;}
+  .montserrat-white-18{font-size: 16px;}
+  .montserrat-white-12{font-size: 9px;}
+  .client-box{padding: 90px 0;}
+  .work-process-content { margin: 30px 36px; }
+  .slider-details { padding: 0 70px; }
+  .slider-text { text-align: center; padding: 92px 0 92px 0; }
+  .collaboration-box ul li { margin: 0 20px; }
+  .project-description { margin: 30px 40px; }
+  .project-box { padding: 60px 0; }
+  .form-details { max-width: 500px; margin: 0 auto; }
+  .footer-description ul:last-child { margin-left: 6px; }
+  .about-us-box{margin: 40px 0;}
+  .skills-img img{height: 380px;}
+  .video-button{height: 80px;width: 80px;}
+  .video-button::before{margin-top: 15px;}
+  .field-content{padding: 50px 0;}
+  .video-controls{top: 65%;}
+  .banner-bkg{padding: 80px 0 30px 0;}
+  .more-work{padding: 20px 0;}
+  .work-process-title{margin-bottom: 0;}
+  .slider-author{margin: 18px 0;}
+  .banner-home-title{margin-top: 120px;}
+  .product-img{max-width: 50%;}
+  .input-detail input{padding: 12px 10px;}
+  .footer-name{margin-bottom: 10px;}
+  .footer-box{padding: 40px 0;}
+  .field-details{max-width: 33%;}
+  /* index page end */
+
+  /* ----------------second page start--------------------- */
+  /* banner page start */
+  .banner-home-description{margin: 30px;}
+  .banner-home-box{padding: 30px 0;}
+  /* banner page end  */
+
+  /* footer start */
+  .footer-description ul:first-child{margin-right: 1px;}
+  /*  footer end  */
+
+  /* ------------------- second page end ---------------- */
+
+  /* ------------------third page start------------------ */
+  /* banner start */
+  .about-banner-description{margin: 0 60px;}
+  .about-banner-box{padding: 60px 0;}
+  .client-box{padding: 60px 0;}
+  .about-me-details{padding: 52px 38px 52px 38px;}
+  .project-box{padding: 50px 0;}
+  .about-banner-title{margin: 40px 0;}
+  .about-banner-box{padding: 100px 0 80px 0;}
+  /* banner end  */
+
+  /* client start */
+  .client-detail{margin: 0 40px;}
+  /* client end */
+
+  /* about start */
+  .about-me-description{margin: 20px 0;}
+  
+  /* about end */
+  /* ------------------third page start------------------ */
+  
+  /*------------------ third page end--------------- */
+
+
+  /* fourth page start */
+  .contact-info-box { display: flex; flex-wrap: wrap; }
+  .contact-info-contact{max-width: 100%;}
+  .form-details form{margin: 50px 0;}
+  .project-button{text-align: center;}
+  /* fourth page end */
+
+
+  /* ------------fifth page start------------------------- */
+  .breakfast-content{padding: 40px 24px 40px 0;}
+  .breakfast-description p{margin: 16px 0;}
+  .breakfast-img img{height: 550px;}
+  .breakfast-content { margin: 50px 30px 0 0; }
+  .google-map{margin-top: 30px;}
+  .contact-info-bkg{padding: 140px 0 80px 0;}
+  .breakfast-content{padding: 100px 0 50px 0;}
+  /* -----------fifth page end---------------------------- */
+}
+
+  @media (max-width:767.98px) {
+    /* index page start */
+  .container {max-width: 600px;}
+  .header-top ul li { padding: 20px 6px; margin: 0; }
+  .montserrat-black-38{font-size: 25px;}
+  .nunitosans-grey-18{font-size: 16px;}
+  .banner-details{padding: 34px 0 0 186px; }
+  .banner-home-title{margin-top: 90px;}
+  .button{padding: 15px 35px;}
+  .about-us-content{padding: 0;}
+  .montserrat-black-30 {font-size: 24px;}
+  .skills-bar-box { margin: 50px 15px 50px 40px; }
+  .skills-img img{height: 415px;}
+  .client-logo img{height: 30px; width: 30px;}
+  .montserrat-white-18{font-size: 14px;}
+  .montserrat-white-12{font-size: 10px;}
+  .client-box{padding: 60px 0;}
+  .more-work{padding: 26px 0;}
+  .work-process-content { margin: 50px 30px; }
+  .field-title {font-size: 12px;}
+  .field-description {font-size: 12px;}
+  .field-content{padding: 50px 0;}
+  .slider-details{font-size: 20px; padding: 0 90px;}
+  .slider-text { text-align: center; padding: 180px 0 90px 0; }
+  .collaboration-box ul li { margin: 0 20px; }
+  .project-description { margin: 40px 38px; }
+  .project-box{padding: 40px 0;}
+  .footer-description ul:last-child{margin-left: 5px;}
+  .footer-description ul:first-child { margin-right: 3px; }
+  .footer-box{padding: 50px 0;}
+  .navbar-toggle {background-color: transparent; border: none;  z-index: 99; position: absolute; right: 0; cursor: pointer;}
+  .navbar-toggle span { width: 25px; height: 3px; position: relative; display: block; background-color: #3c5065; margin: 0 0 5px; transition: 0.5s; }
+  .navbar-toggle span:last-child { margin-bottom: 0; }
+  .header-right .nav{width: 100%;}
+  .header-right .nav{flex-wrap: wrap;}
+  .header-right .nav{flex-direction: column;}
+  .navbar-toggle.open span:first-child{ top: 7px; transform: rotate(45deg); }
+  .navbar-toggle.open span:nth-child(2){opacity: 0;}
+  .navbar-toggle.open span:last-child{ top: -9px; transform: rotate(-45deg); }
+  .header-top{position: relative;}
+  .nav { background-color: #10c9c3; position: fixed; top: 0; bottom: 0; height: 100%; width: 100%; max-width: 100%; right: -100%;  text-align: center; color: black; overflow: auto; transition: 0.5s; }
+  .nav.show {right: 0;}
+  
+  .nav::before {content: ""; background-color: #10c9c3; max-width: 100%; width: 100%; height: 60px; display: block; position: fixed; top: 0; right: -100%; transition: 0.5s; }
+  .nav.show::before {right: 0;}
+  .nav ul {flex-direction: column;color: white;}
+  
+  .nav ul li a:hover{color: black;}
+  .header-right{margin-left: 0;}
+  .field-details{max-width: 50%;}
+  .slider-text{padding: 90px 0 50px 0;}
+  .project-description{margin: 40px 12px;}
+  .footer-description{display: block;}
+  .footer-two{display: flex;}
+  .footer-title{margin-right: 70px;}
+  .footer-one{display: inline-block;}
+  .footer-two{display: table-cell;padding: 20px 0;}
+  .video-button{height: 60px;width: 60px;}
+  .video-controls{top: 70%;}
+  .video-button::before{margin-top: 5%;}
+  /* index page end */
+
+  /*--------------------------- second page start-------------------------------- */
+/* banner start */
+.banner-home-description{margin: 40px 12px;}
+.banner-home-box{padding: 40px 0;}
+/* banner end  */
+   /*--------------------------- second page start-------------------------------- */
+
+   /*-------------------------- third page start------------------------------ */
+   .about-banner-description{margin:0 25px;}
+   .about-banner-box{padding: 60px 0;}
+   .client-detail{margin: 0 40px;}
+   .about-me-details{padding: 80px 30px;}
+   .about-banner-title{margin: 16px 0;}
+   .about-banner-box { padding: 100px 0 60px 0; }
+   /*--------------------------- third page end----------------------- */
+
+   /* fifth page start */
+   .breakfast-content{margin: 20px 10px 0 0;}
+   .breakfast-img img {height: 576px;}
+   .breakfast-description p{margin: 10px 0;}
+   .next-project-box{padding: 15px 0;}
+   .breakfast-content{padding: 100px 0 50px 0;}
+   /* fifth page end */
+
+
+}
+
+ @media (min-width:576px) and (max-width:767.98px) {
+  /* index start  */
+    .container {max-width: 520px;}
+    .banner-title{font-size: 20px;margin-top: 50px;}
+    .nunitosans-grey-18{font-size: 14px;}
+    .button{padding: 10px 30px;}
+    .about-us-box{margin: 40px 0;}
+    .about-us-sign img { object-fit: cover; width: 124px; }
+    .montserrat-black-30{font-size: 20px;}
+    .montserrat-black-12{font-size: 10px;}
+    .skills-img img{height: 348px;}
+    .collaboration-box ul li{padding: 28px 20px;}
+    .client-detail{padding: 20px 0;}
+    .collaboration-box ul{flex-wrap: wrap;}
+    .client-logo img{margin: 0 10px;}
+    .client-box{padding: 40px 0; flex-wrap: wrap;justify-content: space-evenly;}
+    .product-box img{max-height: 300px;}
+    .slider-details{padding: 0 30px;}
+    .collaboration-box img{height: 100px;width: 100px;object-fit: contain;}
+    .banner-bkg{padding: 0;}
+    .banner-details { padding: 34px 0 34px 0px; }
+    .about-us-content{margin: 16px 0;}
+    .work-process-title{margin-bottom: 0;}
+    .work-process-content{margin: 24px 30px;}
+    .work-process{margin: 30px 0;}
+    .video-controls{top: 64%;}
+    .video-button::before{margin-top: 9%;}
+    .slider-text { padding: 50px 0 50px 0; }
+    .product-img{max-width: 50%;}
+    .client-detail:first-child{margin-left: 18px;}
+    .client-detail:last-child{margin-right: 18px;}
+    .input-detail input{padding: 15px 10px;}
+
+   
+    
+    /* index end */
+
+    /* second page start */
+    .banner-home-description{margin: 18px 12px;}
+    /* second page end */
+
+    /* -----------------third page start ----------------------- */
+    .client-detail{margin: 0 16px;}
+    .about-me-img img{height: 100%;}
+    .about-me-details{padding: 10px 30px;}
+    .about-me-title{margin-top: 20px;}
+    .about-me-description{margin: 14px 0;}
+    .project-description{margin: 20px 12px;}
+    .about-me-sign img {width: 30%;}
+    .contact-info-contact{padding:  0 0 0 30px;}
+    .form-details form{display: flex;}
+    .input-detail{max-width: 100%;}
+    .input-name{max-width: 50%;}
+    
+    .contact-info-description{margin: 19px 0}
+    .contact-info-bkg{padding: 100px 0;}
+    .google-map{margin-top: 50px;}
+    .about-me-box{display: block;}
+    .about-me-img{max-width: 100%;}
+    .about-me-details{max-width: 100%;}
+    /* -------------------third page end------------------------- */
+
+    /* fourth page start */
+    .contact-info-box{flex-wrap: wrap;}
+    .contact-info-contact{max-width: 100%;}
+    .project-button{text-align: center;}
+    .form-details{margin: 20px 0;}
+    /* fourth page end */
+
+    /* fifth page start */
+    .breakfast-img{float: none;max-width: 100%;height: 100%;}
+    .breakfast-content{padding: 20px 0 50px 0}
+    /* fifth page end */
+}
+
+@media (max-width:575.98px){
+.container{max-width: 100%;padding: 0 10px; width: calc(100% - 20px);}
+.about-us-box{margin: 60px 0;}
+.about-us-sign img {width: 30%;}
+.skills-img img{height: 100%;}
+.banner-details{padding: 0px 0 0 0;}
+.banner-bkg{padding: 100px 0 60px 0;}
+.montserrat-black-38{font-size: 20px;}
+.nunitosans-grey-18{font-size: 14px;}
+.client-detail{padding-bottom: 30px;}
+.slider-details{padding: 0 27px;}
+.collaboration-box ul{flex-wrap: wrap;}
+.collaboration-box img{height: 90px;width: 90px;object-fit: contain;}
+.footer-title{margin-right: 0px;}
+.client-detail{margin: 0 8px;}
+.about-me-img img{height: 100%;}
+.about-me-details{padding: 0px 30px;}
+.montserrat-black-30{font-size: 18px;}
+.nunitosans-grey-16{font-size: 16px;}
+.about-me-description{margin: 12px 0;}
+.about-me-sign img{width: 50%;}
+.about-me-title{margin-top: 20px;}
+.project-description{margin: 20px 0px;}
+.button{padding: 10px 25px;}
+.about-us-content{margin: 15px 0;}
+.about-us-box{margin: 36px 0;}
+.skills-content{display: block;}
+.skills-box{width: 100%;}
+.skills-bar-box{margin: 30px;}
+.client-box{display: block;}
+.client-detail:first-child{margin-left: 8px;}
+.montserrat-grey-12{font-size: 10px;}
+.work-process-content{margin: 10px 0;}
+.work-process-title{margin-bottom: 16px;}
+.work-process{margin: 30px 0;}
+.video-button::before { content: ""; display: inline-block; border-left: 20px solid; border-top: 10px solid transparent; border-bottom: 10px solid transparent; margin-right: 0px; margin-top: 7px; margin-left: 6px; }
+.video-button{height: 40px;width: 40px;}
+.video-controls{top: 70%;}
+.field-content{display: block;}
+.field-details{max-width: 100%;padding:20px  0}
+.slider-details{font-size: 16px;}
+.slider-text { padding: 50px 0 30px 0; }
+.form-details form{display: block;}
+.input-detail{max-width: 100%;}
+.form-details .input-detail{padding: 0;width: calc(100% - 0px);}
+.footer-box{display: block;}
+.footer-two{display: block;}
+.footer-description ul{margin: 0;}
+.footer-description ul:last-child{margin-left: 0;}
+.footer-detail{margin: 10px 0;}
+.client-box{padding: 30px 0;}
+.client-detail:last-child{padding-bottom: 0;}
+.field-content{padding: 20px 0;}
+.footer-box{padding: 30px 0;}
+.banner-home-description{margin: 20px 12px;}
+.banner-home-box{padding: 30px 0;}
+.banner-home-title{margin-top: 80px;}
+.footer-description ul li{line-height: 22px;display: inline-flex;}
+.video-button::before { content: ""; display: inline-block; border-left: 12px solid; border-top: 10px solid transparent; border-bottom: 10px solid transparent; margin-right: 0px; margin-top: 0px; margin-left: 5px; }
+.product-img{max-width: 100%;}
+.input-detail input{padding: 15px 10px;}
+.footer-two{display: flex;flex-direction: column;}
+/* .client-logo{justify-content: center;} */
+
+/* third page start */
+.about-banner-description{margin: 0;}
+.about-me-box{display: block;}
+.about-me-img{max-width: 100%;}
+.about-me-details{max-width: 100%;}
+.contact-info-box{display: block;}
+.contact-info-contact{max-width: 100%;}
+.contact-info-contact{padding: 0;}
+.contact-info-bkg{padding: 90px 0 30px 0;}
+.contact-info-description{margin: 10px 0;}
+.form-details{margin-top: 20px;}
+.google-map{margin-top: 30px;}
+.contact-details{display: block;}
+/* third page end */
+
+
+/* fourth page start */
+.project-button{text-align: center;}
+/* fourth page end */
+
+
+/* fifth page start */
+.breakfast-box{display: block;}
+.breakfast-img img{height: 100%;}
+.breakfast-img{float: none;max-width: 100%;}
+.next-project-box{padding: 20px 0;}
+.breakfast-content { padding: 0 0 50px 0; }
+.footer-two{padding: 8px 0;}
+
+/* fifth page end */
+
+}

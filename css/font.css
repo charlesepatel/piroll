@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'MontserratMedium';
+  src: url('MontserratMedium.eot');
+  src: url('MontserratMedium.eot') format('embedded-opentype'),
+       url('MontserratMedium.woff2') format('woff2'),
+       url('MontserratMedium.woff') format('woff'),
+       url('MontserratMedium.ttf') format('truetype'),
+       url('MontserratMedium.svg#MontserratMedium') format('svg');
+}
+
+@font-face {
+  font-family: 'NunitoSansRegular';
+  src: url('NunitoSansRegular.eot');
+  src: url('NunitoSansRegular.eot') format('embedded-opentype'),
+       url('NunitoSansRegular.woff2') format('woff2'),
+       url('NunitoSansRegular.woff') format('woff'),
+       url('NunitoSansRegular.ttf') format('truetype'),
+       url('NunitoSansRegular.svg#NunitoSansRegular') format('svg');
+}
